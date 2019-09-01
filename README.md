@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+A cross platform meal recipes application for android and ios, using flutter. 
 
 ## Getting Started
 
